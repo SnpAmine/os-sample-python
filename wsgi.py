@@ -3,9 +3,9 @@ import os
 
 
 
-app = Flask(__name__)
+application = Flask(__name__)
 
-@app.route("/script", methods=['POST'])
+@application.route("/script", methods=['POST'])
 def script():
     input_string = request.form['data']
     print(input_string)
@@ -14,9 +14,9 @@ def script():
 
     return "backend response"
 
-@app.route('/')
+@application.route('/')
 def static_page():
     return render_template('index.html')
 
 if __name__ == "__main__":
-    app.run()
+    application.run()
