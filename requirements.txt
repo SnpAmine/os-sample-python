@@ -1,5 +1,5 @@
 gunicorn
-setuptools==18.5
+setuptools>=18.5
 Flask
 request
 openpyxl
