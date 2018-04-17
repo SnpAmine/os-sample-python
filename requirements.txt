@@ -4,8 +4,6 @@ request
 openpyxl
 xlrd
 netmiko
-getpass
-easygui
 time
 sys
 json
