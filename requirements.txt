@@ -4,6 +4,6 @@ request
 openpyxl
 xlrd
 netmiko
-pip -update
+pip install --upgrade pip
 sys
 json
