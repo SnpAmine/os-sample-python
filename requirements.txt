@@ -1,2 +1,12 @@
 gunicorn
 Flask
+request
+render_template
+openpyxl
+xlrd
+netmiko
+getpass
+easygui
+time
+sys
+json
