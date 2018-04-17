@@ -4,5 +4,6 @@ request
 openpyxl
 xlrd
 netmiko
+pip -update
 sys
 json
