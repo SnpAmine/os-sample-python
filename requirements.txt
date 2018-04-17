@@ -1,7 +1,6 @@
 gunicorn
 Flask
 request
-render_template
 openpyxl
 xlrd
 netmiko
