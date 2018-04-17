@@ -4,4 +4,6 @@ request
 openpyxl
 xlrd
 netmiko
-json
+jsonschema
+configparser
+setuptools
