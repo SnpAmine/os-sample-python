@@ -1,5 +1,5 @@
 gunicorn
-setuptools>=18.5
+setuptools==28.8.0
 pip==10.0.0
 Flask
 request
