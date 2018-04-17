@@ -4,6 +4,5 @@ request
 openpyxl
 xlrd
 netmiko
-time
 sys
 json
