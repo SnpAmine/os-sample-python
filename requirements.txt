@@ -5,7 +5,6 @@ Flask
 request
 openpyxl
 xlrd
-netmiko
 jsonschema
 configparser
 
