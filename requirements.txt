@@ -18,7 +18,6 @@ itsdangerous
 netaddr
 netmiko
 paramiko
-pip
 pyasn1
 pycparser
 pymongo
