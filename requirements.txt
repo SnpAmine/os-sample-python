@@ -11,7 +11,6 @@ asn1crypto
 bcrypt
 cffi
 click
-cryptography
 idna
 ipaddress
 itsdangerous
