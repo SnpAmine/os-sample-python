@@ -15,8 +15,6 @@ idna
 ipaddress
 itsdangerous
 netaddr
-netmiko
-paramiko
 pyasn1
 pycparser
 pymongo
